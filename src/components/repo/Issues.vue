@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import { octokitMixin } from "@/mixins/octokitMixin";
+import { octokitMixin } from "../../mixins/octokitMixin";
 import IssueComments from "./issue/Comments.vue";
 
 export default {

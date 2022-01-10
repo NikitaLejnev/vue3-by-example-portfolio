@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import { octokitMixin } from "@/mixins/octokitMixin";
+import { octokitMixin } from "../../../mixins/octokitMixin";
 
 export default {
   name: "IssueComments",
